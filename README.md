@@ -1,1 +1,1 @@
-# PG-Advanced-202410
+Репозиторий для прохождения курса Postgresql Advanced от Otus
